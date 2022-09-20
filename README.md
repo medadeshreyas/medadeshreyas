@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shreyasmedade06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LiXzQZI-pXHN6Cljmh4CSeq5UgazK4nx/view?usp=sharing](https://drive.google.com/file/d/1LiXzQZI-pXHN6Cljmh4CSeq5UgazK4nx/view?usp=sharing)
+- 📄 Know about my experiences [https://medadeshreyas.github.io/resources/Shreyas_Medade_Resume.pdf](https://medadeshreyas.github.io/resources/Shreyas_Medade_Resume.pdf)
 
 - ⚡ Fun fact **I am a Gamer who turned into a Developer**
 
