@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Download Resume](https://medadeshreyas.github.io/resources/Shreyas_Medade_Resume.pdf)
 
-- 👯 I’m looking to collaborate on **Backend Projects : JAVA,SQL,JDBC & CLI and Frontend Projects : HTML, CSS & JavaScript**
+- 👯 I’m looking to collaborate on **Backend Projects : JAVA, SQL, JDBC, HIBERNATE, MAVEN & CLI and Frontend Projects : HTML, CSS & JavaScript**
 
 - 🤝 I’m looking for help with **Frontend Applications Based on Java Language**
 
