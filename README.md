@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medadeshreyas&label=Profile%20views&color=0e75b6&style=flat" alt="medadeshreyas" /> </p>
 
-- 🔭 I’m currently working on **Something Cool !**
+- 🔭 I'm a **Java Backend Developer** at **Clayfin Technologies** 
 
-- 🌱 I’m currently learning **Java | SQL | JDBC | Maven | Hibernate**
+- 🌱 My technical interests include **Java | SQL | JDBC | Maven | Hibernate | Spring | SpringBoot | Spring Batch | Deployment | R&D | ELK**.
 
 - 📫 How to reach me **shreyasmedade06@gmail.com**
 
 - 👨‍💻 Know more about me at [https://medadeshreyas.github.io/](https://medadeshreyas.github.io/)
 
-- 💬 Ask me about **Java,SpringBoot,and backend programming languages.**
+- 💬 Ask me about **Java, Spring Boot, and backend programming languages.**
 
 - 📄 Know about my experiences [Download Resume](https://medadeshreyas.github.io/assets/docs/Shreyas_Medade_Resume.pdf)
 
@@ -19,9 +19,7 @@
 
 - 🤝 I’m looking for help with **Frontend Applications Based on Java Language**
 
-
 <br/>
-
 
 <h3 align="center">My Tech Stack</h3>
 <br/>
@@ -33,18 +31,16 @@
 </p>
 
 <br/>
-<h3 align="center">Tools & Softwares</h3>
+
+<h3 align="center">Tools & Software</h3>
 
 <br/>
-
 
 <p align="center" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&perline=4" />
   </a>
 </p>
-
-
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -54,17 +50,11 @@
 
 <br/>
 
-
 <p align="center">
-
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=medadeshreyas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=medadeshreyas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-
 
 <p align="right">
   <img src="https://activity-graph.herokuapp.com/graph?username=medadeshreyas&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
-
-
