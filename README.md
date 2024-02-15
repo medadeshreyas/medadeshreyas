@@ -1,27 +1,22 @@
-<h1 align="center">Hey 👋, I'm Shreyas Vilas Medade</h1>
-<h3 align="center">I'M A GAMER, WHO TURNED UP AS A BACKEND DEVELOPER.</h3>
+<h1 align="center">Hello 👋, Shreyas Medade  this side </h1>
+<h3 align="center">A GAMER, WHO TURNED AS A BACKEND DEVELOPER.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medadeshreyas&label=Profile%20views&color=0e75b6&style=flat" alt="medadeshreyas" /> </p>
 
-- 🔭 I'm a **Java Backend Developer** at **Clayfin Technologies** 
+- 🌱 Technical interests:-  **Java | SQL | JDBC | Maven | Hibernate | Spring | SpringBoot | Spring Batch | Deployment | R&D | ELK**.
 
-- 🌱 My technical interests include **Java | SQL | JDBC | Maven | Hibernate | Spring | SpringBoot | Spring Batch | Deployment | R&D | ELK**.
+- 📫 Reach me on  **shreyasmedade06@gmail.com**
 
-- 📫 How to reach me **shreyasmedade06@gmail.com**
+- 👨‍💻 More details ?  [https://medadeshreyas.github.io/](https://medadeshreyas.github.io/)
 
-- 👨‍💻 Know more about me at [https://medadeshreyas.github.io/](https://medadeshreyas.github.io/)
+- 📄 Resume ? Heres the link  [Download Resume](https://medadeshreyas.github.io/assets/docs/Shreyas_Medade_Resume.pdf)
 
-- 💬 Ask me about **Java, Spring Boot, and backend programming languages.**
+- 👯 Looking to collaborate on **Backend Projects : JAVA, SQL, JDBC, HIBERNATE, MAVEN & CLI and Frontend Projects : HTML, CSS & JavaScript**
 
-- 📄 Know about my experiences [Download Resume](https://medadeshreyas.github.io/assets/docs/Shreyas_Medade_Resume.pdf)
-
-- 👯 I’m looking to collaborate on **Backend Projects : JAVA, SQL, JDBC, HIBERNATE, MAVEN & CLI and Frontend Projects : HTML, CSS & JavaScript**
-
-- 🤝 I’m looking for help with **Frontend Applications Based on Java Language**
 
 <br/>
 
-<h3 align="center">My Tech Stack</h3>
+<h3 align="center"> Tech Stack</h3>
 <br/>
 
 <p align="center" >
@@ -42,7 +37,7 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Social Links </h3>
 <p align="center">
 <a href="https://twitter.com/shreyasmedade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyasmedade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyasmedade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyasmedade" height="30" width="40" /></a>
